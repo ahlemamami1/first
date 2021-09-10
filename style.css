@@ -1,0 +1,73 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); 
+* {
+    font-family: 'Poppins' ;
+   
+}
+nav {
+    font-weight: 600;
+    border-bottom: rgba(100, 100, 100 , 0.5) 1px solid;
+}
+.navbar-nav.pad , .navbar-nav.pad li{
+padding-left: 2.5rem ;
+}
+.navbar-nav.pad li{
+padding-left: 1.5rem ;
+}
+.btn.btn-primary.large {
+    width: 9rem;
+    height: 3rem;
+}
+.deco {
+    text-decoration: none;
+}
+.btn.color , .navbar-brand.color {
+    color: #85499D;
+}
+.height {
+    height: 90vh;
+}
+.margin {
+
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.margin2 {
+    margin-top: 7%;
+    margin-left: 15%;
+}
+.with {
+    display: inline;
+    width: 250px;
+    margin-left: 8%;
+    padding: 4px 0 ;
+    background-color: rgb(240, 238, 238);
+    border: 2px solid rgb(207, 202, 202) ;
+    outline-color: #85499D;
+}
+.texte{
+
+    color: #85499D;
+    font-weight: bold;
+    padding-bottom: 20px;
+    letter-spacing: 1px;
+    
+}
+.texte2{
+
+    color: #85499D;  
+}
+.bttn {
+    background-color:#85499D ;
+}
+.bttn:hover{
+    background-color:white ;
+    color: #85499D;
+}
+.shadw {
+
+    box-shadow: rgba(56, 56, 56, 0.2) 0px 3px 8px;}
+.btn.clore {
+background: #85499D ;
+    height: 50px;
+}
